@@ -22,4 +22,4 @@ Output:
 - Machine code is generated in program.machine
 - Execution result is stored in out.json
 
-Author: <Your Name>
+
