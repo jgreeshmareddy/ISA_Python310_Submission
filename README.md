@@ -15,6 +15,7 @@ Steps to Run:
 3. Use the isolated Python interpreter:
 
    ..\python310\python.exe compiler.py program.asm program.machine
+   
    ..\python310\python.exe interpreter.py program.machine out.json
 
 Output:
