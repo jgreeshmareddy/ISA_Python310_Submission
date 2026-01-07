@@ -14,12 +14,22 @@ Steps to Run:
 2. Navigate to isa_work folder
 3. Use the isolated Python interpreter:
 
-   ..\python310\python.exe compiler.py program.asm program.machine
-   
-   ..\python310\python.exe interpreter.py program.machine out.json
+   python compiler.py program.asm program.machine
+
+   python interpreter.py program.machine out.json
 
 Output:
 - Machine code is generated in program.machine
 - Execution result is stored in out.json
 
+
+<img width="1600" height="900" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/b0dc3418-9bdb-4468-afc4-145128d7d79e" />
+
+compile and execute :
+
+<img width="1600" height="900" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/618d99f6-fef7-4311-838e-cdd81ae06965" />
+
+after execution:
+
+<img width="1600" height="900" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/ba4e6465-c578-41d9-80ef-e52273c649e7" />
 
