@@ -27,7 +27,8 @@ Output:
 
 compile and execute :
 
-<img width="1600" height="900" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/618d99f6-fef7-4311-838e-cdd81ae06965" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/073ab21d-bcda-4e23-9557-fa981b055397" />
+
 
 after execution:
 
