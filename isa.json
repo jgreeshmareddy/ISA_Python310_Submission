@@ -1,0 +1,11 @@
+{
+  "INSTRUCTIONS": {
+    "LOAD":    { "format": ["R", "IMM"] },
+    "STORE_W": { "format": ["R", "ADDR"] },
+    "STORE_B": { "format": ["R", "ADDR"] },
+    "MAC":     { "format": ["R", "R", "R"] },
+    "ADD":     { "format": ["R", "R", "R"] },
+    "SUB":     { "format": ["R", "R", "R"] },
+    "HALT":    { "format": [] }
+  }
+}
