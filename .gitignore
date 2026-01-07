@@ -1,0 +1,5 @@
+python310/
+__pycache__/
+*.exe
+*.dll
+*.pyd
